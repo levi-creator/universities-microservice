@@ -8,8 +8,8 @@ It provides university website data through a Flask API endpoint.
 - Containerized with Docker
 - Deployed and scaled on IBM Code Engine
 
-## Endpoint Example
-curl https://listing.29qb5sqpffd9.us-south.codeengine.appdomain.cloud/websites/Trinity%20College%20of%20Music
+## 🌐 Deployment URL
+- Websites microservice: [https://websites.29qb5sqpffd9.us-south.codeengine.appdomain.cloud](https://websites.29qb5sqpffd9.us-south.codeengine.appdomain.cloud)
+- Listing microservice: [https://listing.29qb5sqpffd9.us-south.codeengine.appdomain.cloud](https://listing.29qb5sqpffd9.us-south.codeengine.appdomain.cloud)
 
-listing.29qb5sqpffd9.us-south.codeengine.appdomain.cloud
 # universities-microservice

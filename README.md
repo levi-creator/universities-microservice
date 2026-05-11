@@ -11,5 +11,5 @@ It provides university website data through a Flask API endpoint.
 ## Endpoint Example
 curl https://listing.29qb5sqpffd9.us-south.codeengine.appdomain.cloud/websites/Trinity%20College%20of%20Music
 
-listing.29qb5sqpffd9.us-south.codeengine.appdomain.cloud in Bing)
+listing.29qb5sqpffd9.us-south.codeengine.appdomain.cloud
 # universities-microservice
